@@ -3,4 +3,4 @@ This repository contains human histone interactomes buit from structural, chemic
 
 You can browse the following folders:
 1. [Source_Code](Source_Code): Source data from the study
-2. [Simulations_set_up](Simulations_set_up): scripts and parameter files for running simulation
+2. [Files_for_histone_interactome](Files_for_histone_interactome): scripts and parameter files for running simulation
