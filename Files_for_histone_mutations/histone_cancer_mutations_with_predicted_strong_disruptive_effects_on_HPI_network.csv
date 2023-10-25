@@ -1,0 +1,25 @@
+mutation,in_refined_histone_cancer_mutation_set_frequency,uniprot_id,histone_gene,cancer_type,pdb_and_DDG,average value of DDG (kcal/mol)
+H3 R26P,5,P68431,"H3C4, H3C2","Breast Cancer, Sarcoma, Esophagogastric Cancer, Endometrial Cancer",6f6d:3.3260682;5oy3:3.0957322;3o35:2.8078673,3.08
+H2B H49L,3,P62807,H2BC6,Non-Small Cell Lung Cancer,7jo9:3.212642;7joa:3.0940723;6x5a:2.8642993,3.06
+H3 R131P,4,P68431,"H3C11, H3C12","Colorectal Cancer, Non-Small Cell Lung Cancer, Bladder Cancer",7v6q:3.139824;5c3i:2.6784227;4z2m:2.1229844,2.65
+H3 R2C,3,P68431,"H3C4, H3C7, H3C1","Breast Cancer, Soft Tissue Sarcoma, Hepatobiliary Cancer",4lka:2.6656168;6qxz:2.5455065;3zvy:2.105319,2.44
+H3 Y41C,5,P84243,H3-3B,"Non-Small Cell Lung Cancer, Bladder Cancer",4h9n:2.4367828;4h9q:2.4367828;5kdm:2.4350815,2.44
+H3 R116P,4,P68431,"H3C4, H3C8, H3C2, H3C7","Breast Cancer, Cervical Cancer, Bladder Cancer",4z2m:2.358284,2.36
+H4 R3G,3,P62805,"H4C2, H4C3, H4C11","Renal Cell Carcinoma, Prostate Cancer, Thyroid Cancer",5ye3:2.2997649;3uvw:2.1019783;5ffw:2.0733247,2.16
+H3 R72P,3,P68431,H3C2,"Breast Cancer, Colorectal Cancer, Non-Small Cell Lung Cancer",5c3i:2.133308,2.13
+H3 R2H,3,P68431,"H3C10, H3C8","Esophagogastric Cancer, Germ Cell Tumor, Glioma",4lka:2.4867551;6qxz:1.8295034;4qbr:1.8040483,2.04
+H3 R2G,3,P84243,"H3-3B, H3-3A","Breast Cancer, Pancreatic Cancer, Pleural Mesothelioma",4qq4:2.1458945;4l58:1.9883497;4gy5:1.9546554,2.03
+H4 R19C,3,P62805,"H4C5, H4C13","Mature B-Cell Neoplasms, Soft Tissue Sarcoma, Endometrial Cancer",3f9x:2.1988328;7d1z:2.038484;7lyc:1.7588472,2
+H4 E53D,3,P62805,"H4C5, H4C13, H4C2","Head and Neck Cancer, Ovarian Epithelial Tumor, Breast Cancer",6mup:2.1011922;7yyh:1.9566114;7pii:1.9276645,2
+H3 R40C,3,P68431,"H3C8, H3C12, H3C3","Breast Cancer, Non-Small Cell Lung Cancer, Glioma",7v6q:2.1058507;6wav:2.1046634;6wav:1.7529175,1.99
+H4 E63Q,3,P62805,"H4C12, H4C16","Head and Neck Cancer, Cervical Cancer, Endometrial Cancer",4h9p:1.9471884;4h9r:1.9471884;4h9n:1.94265,1.95
+H3 K27M,28,"P84243, P68431","H3C4, H3C3, H3C7, H3C2, H3-3A","Leukemia, Glioma",5kkl:2.052182;5kkl:2.052182;5hyn:1.5045669,1.87
+H4 R3C,9,P62805,"H4C2, H4C4, H4C12, H4C13, H4C11","Renal Cell Carcinoma, Esophagogastric Cancer, Breast Cancer, Endometrial Cancer, Prostate Cancer, Thymic Tumor, Bladder Cancer, Soft Tissue Sarcoma",5ye3:2.0182068;3uvw:1.8687814;4gqb:1.6819445,1.86
+H4 R40C,3,P62805,"H4C9, H4C14, H4C13","Mesothelioma, Colorectal Cancer, Meningioma",7v1m:1.8107432;7v6q:1.8009666;6upk:1.7149662,1.78
+H4 D85N,3,P62805,"H4C5, H4C13, H4C2","Esophagogastric Cancer, Hepatobiliary Cancer, Bladder Cancer",5ja4:2.0090508;5bnx:1.630733;7cj0:1.5130639,1.72
+H3 R26Q,3,P68431,"H3C10, H3C4","Head and Neck Cancer, Non-Small Cell Lung Cancer, Bladder Cancer",6f6d:1.7675961;5oy3:1.7585474;5hyn:1.4751672,1.67
+H3 R26H,3,P68431,"H3C11, H3C6, H3C2","Colorectal Cancer, Ovarian Cancer, Hepatobiliary Cancer",5oy3:1.727395;6f6d:1.6034389;5hyn:1.5169477,1.62
+H2B T119I,3,P62807,H2BC4,"Mature B-cell lymphoma, Mature B-Cell Neoplasms",5kgf:1.6244615;5kgf:1.6244615;8av6:1.4707345,1.57
+H3 K4M,8,"P84243, P68431","H3C11, H3-3A, H3C10, H3-3B, H3C1","Ampullary Carcinoma, Head and Neck Cancer, Cervical Cancer, Prostate Cancer, Mature B-Cell Neoplasms, Non-Small Cell Lung Cancer, Hepatobiliary Cancer",5y2f:1.635895;5svy:1.5115848;4gur:1.4590335,1.54
+H2B E113K,6,"P06899, P62807","H2BC8, H2BC11, H2BC4","Lung cancer, Breast Cancer, Colorectal Cancer, Bladder Cancer",7xsx:1.5669972;7xtd:1.5669972;5kgf:1.4600997,1.53
+H2A E121Q,4,P20671,H2AC7,Breast Cancer,8h1t:1.5031486,1.5
