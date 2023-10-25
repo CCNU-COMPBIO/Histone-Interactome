@@ -12,5 +12,5 @@ This repository contains interactions for different species and different intera
 5.[topological_analysis](topological_analysis):Sorce data for analysis of structural, cross-linkng and high-throughput human histone interaction networks with additional layer.
 
 6.[histone_partner_interface_property](histone_partner_interface_property.xlsx):Physicochemical properties of residues at the binding interface of histones and partners.
-7.[structural_interactome_PTM_sites](structural_interactome_PTM_sites):Source data containing PTM information on histone binding interfaces in the structural interactome.
+7.[structural_interactome_PTM_sites](structural_interactome_PTM_sites.csv):Source data containing PTM information on histone binding interfaces in the structural interactome.
 
