@@ -6565,10 +6565,10 @@ P62807,H2B,H2BC4,N,64,S,N64S,6115234,PRAD,Prostate Cancer,Prostate Adenocarcinom
 P62807,H2B,H2BC8,T,89,I,T89I,ACYC-SANGER-2013_PD3190a,ACYC,Salivary Gland Cancer,Adenoid Cystic Carcinoma,0.4,6,26216606,26216606,Missense_Mutation,SNP
 O60814,H2B,H2BC12,P,104,S,P104S,DLBCL-Ls3387,DLBCL,Mature B-Cell Neoplasms,Diffuse Large B-Cell Lymphoma,5.77,6,27114268,27114268,Missense_Mutation,SNP
 P20671,H2A,H2AC7,G,9,E,G9E,cll_iuopa_2015_1425,CLLSLL,Mature B-Cell Neoplasms,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,0.97,6,26199446,26199446,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,18,C,R18C,coadread_dfci_2016_162841,COADREAD,Colorectal Cancer,Colorectal Adenocarcinoma,21.63,6,27776039,27776039,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,4,H,R4H,coadread_dfci_2016_2379,COADREAD,Colorectal Cancer,Colorectal Adenocarcinoma,34,6,27775998,27775998,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,18,C,R18C,coadread_dfci_2016_162841,COADREAD,Colorectal Cancer,Colorectal Adenocarcinoma,21.63,6,27776039,27776039,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,4,H,R4H,coadread_dfci_2016_2379,COADREAD,Colorectal Cancer,Colorectal Adenocarcinoma,34,6,27775998,27775998,Missense_Mutation,SNP
 O75367,H2A,MACROH2A1,G,315,D,G315D,coadread_dfci_2016_251,COADREAD,Colorectal Cancer,Colorectal Adenocarcinoma,10.2,5,134678959,134678959,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,K,126,T,K126T,coadread_dfci_2016_3235,COADREAD,Colorectal Cancer,Colorectal Adenocarcinoma,95.47,6,27776364,27776364,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,K,126,T,K126T,coadread_dfci_2016_3235,COADREAD,Colorectal Cancer,Colorectal Adenocarcinoma,95.47,6,27776364,27776364,Missense_Mutation,SNP
 Q99879,H2B,H2BC14,I,55,M,I55M,DFCI_DLBCL_Goe16,DLBCL,Mature B-Cell Neoplasms,Diffuse Large B-Cell Lymphoma,2.43,6,27782986,27782986,Missense_Mutation,SNP
 P68431,H3,H3C11,L,66,V,L66V,DFCI_DLBCL_Goe16,DLBCL,Mature B-Cell Neoplasms,Diffuse Large B-Cell Lymphoma,2.43,6,27839898,27839898,Missense_Mutation,SNP
 Q93077,H2A,H2AC6,E,122,D,E122D,DLBCL-Ls1065,DLBCL,Mature B-Cell Neoplasms,Diffuse Large B-Cell Lymphoma,2.7,6,26124826,26124826,Missense_Mutation,SNP
@@ -6612,7 +6612,7 @@ P62805,H4,H4C2,R,46,Q,R46Q,ESO-118,ESCA,Esophagogastric Cancer,Esophageal Adenoc
 P62805,H4,H4C13,F,62,L,F62L,ESO-118,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,4.73,6,27841105,27841105,Missense_Mutation,SNP
 P62805,H4,H4C5,D,69,F,D69F,ESO-122,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,7.2,6,26205077,26205078,Missense_Mutation,DNP
 P23527,H2B,H2BC17,G,115,S,G115S,ESO-147,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,3.83,6,27861583,27861583,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,36,S,R36S,ESO-153,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,3.93,6,27776093,27776093,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,36,S,R36S,ESO-153,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,3.93,6,27776093,27776093,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,K,120,E,K120E,ESO-1608,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,4.43,6,27805760,27805760,Missense_Mutation,SNP
 Q93077,H2A,H2AC6,G,23,D,G23D,ESO-164,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,3.47,6,26124528,26124528,Missense_Mutation,SNP
 P68431,H3,H3C8,R,3,H,R3H,ESO-164,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,3.47,6,26271605,26271605,Missense_Mutation,SNP
@@ -6623,7 +6623,7 @@ Q7L7L0,H2A,H2AC25,G,3,A,G3A,ESO-2143,ESCA,Esophagogastric Cancer,Esophageal Aden
 Q93077,H2A,H2AC6,A,70,T,A70T,ESO-536,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,4.8,6,26124668,26124668,Missense_Mutation,SNP
 P62805,H4,H4C13,S,2,C,S2C,ESO-632,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,5.6,6,27841284,27841284,Missense_Mutation,SNP
 P68431,H3,H3C2,V,47,L,V47L,ESO-859,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,56.03,6,26032150,26032150,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,S,2,Y,S2Y,H110669,LIAD,Hepatobiliary Cancer,Hepatocellular Adenoma,2.37,6,27775992,27775992,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,S,2,Y,S2Y,H110669,LIAD,Hepatobiliary Cancer,Hepatocellular Adenoma,2.37,6,27775992,27775992,Missense_Mutation,SNP
 P0C5Y9,H2A,H2AB1,P,112,A,P112A,HE3202,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,24.03,X,154113658,154113658,Missense_Mutation,SNP
 P62805,H4,H4C4,F,101,L,F101L,MBC-MBCProject_57iLiJIl-Tumor-SM-CGLIV,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,25.4,6,26189002,26189002,Missense_Mutation,SNP
 Q7L7L0,H2A,H2AC25,R,100,G,R100G,MBC-MBCProject_99CdCOHm-Tumor-SM-CGLF4,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,8.7,1,228645221,228645221,Missense_Mutation,SNP
@@ -6634,7 +6634,7 @@ P0C0S8,H2A,H2AC15,A,15,T,A15T,MD903,ABC,Mature B-Cell Neoplasms,Activated B-cell
 P62807,H2B,H2BC4,K,47,R,K47R,MD903,ABC,Mature B-Cell Neoplasms,Activated B-cell Type,21.97,6,26123993,26123993,Missense_Mutation,SNP
 P68431,H3,H3C1,P,67,L,P67L,MD903,ABC,Mature B-Cell Neoplasms,Activated B-cell Type,21.97,6,26020917,26020917,Missense_Mutation,SNP
 Q16778,H2B,H2BC21,G,27,D,G27D,MD903,ABC,Mature B-Cell Neoplasms,Activated B-cell Type,21.97,1,149858111,149858111,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,S,19,F,S19F,MEL-JWCI-WGS-34,SKCM,Melanoma,Cutaneous Melanoma,33.63,6,27776043,27776043,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,S,19,F,S19F,MEL-JWCI-WGS-34,SKCM,Melanoma,Cutaneous Melanoma,33.63,6,27776043,27776043,Missense_Mutation,SNP
 P68431,H3,H3C2,E,95,Q,E95Q,MO_1162,PRAD,Prostate Cancer,Prostate Adenocarcinoma,2.87,6,26032006,26032006,Missense_Mutation,SNP
 P68431,H3,H3C12,R,64,H,R64H,MO_1162,PRAD,Prostate Cancer,Prostate Adenocarcinoma,2.87,6,27858380,27858380,Missense_Mutation,SNP
 P84243,H3,H3-3A,E,106,V,E106V,MO_1176,PRAD,Prostate Cancer,Prostate Adenocarcinoma,3,1,226259086,226259086,Missense_Mutation,SNP
@@ -7438,7 +7438,7 @@ P62805,H4,H4C9,R,18,L,R18L,TCGA-18-3406-01,LUSC,Non-Small Cell Lung Cancer,Lung 
 P68431,H3,H3C11,R,27,C,R27C,TCGA-18-3411-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,12.63,6,27840015,27840015,Missense_Mutation,SNP
 P68431,H3,H3C11,T,119,A,T119A,TCGA-19-5956-01,GBM,Glioma,Glioblastoma Multiforme,230.33,6,27839739,27839739,Missense_Mutation,SNP
 P62807,H2B,H2BC10,P,2,R,P2R,TCGA-20-1683-01,SOC,Ovarian Cancer,Serous Ovarian Cancer,2.87,6,26273208,26273208,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,L,84,I,L84I,TCGA-21-5786-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,11.93,6,27776237,27776237,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,L,84,I,L84I,TCGA-21-5786-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,11.93,6,27776237,27776237,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,R,30,P,R30P,TCGA-21-5787-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,12.6,6,27806029,27806029,Missense_Mutation,SNP
 P62807,H2B,H2BC10,V,99,L,V99L,TCGA-22-5471-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,7.2,6,26273498,26273498,Missense_Mutation,SNP
 P23527,H2B,H2BC17,G,54,C,G54C,TCGA-22-5471-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,7.2,6,27861400,27861400,Missense_Mutation,SNP
@@ -7450,7 +7450,7 @@ P68431,H3,H3C3,R,3,G,R3G,TCGA-25-1313-01,SOC,Ovarian Cancer,Serous Ovarian Cance
 P0C0S8,H2A,H2AC17,Q,7,H,Q7H,TCGA-25-2392-01,SOC,Ovarian Cancer,Serous Ovarian Cancer,3.8,6,27860907,27860907,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC17,L,59,Q,L59Q,TCGA-27-2527-01,GBM,Glioma,Glioblastoma Multiforme,1.9,6,27860752,27860752,Missense_Mutation,SNP
 O60814,H2B,H2BC12,T,20,S,T20S,DLBCL-Ls3499,DLBCL,Mature B-Cell Neoplasms,Diffuse Large B-Cell Lymphoma,4.47,6,27114519,27114519,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,A,54,V,A54V,TCGA-2G-AAFG-01,SEM,Germ Cell Tumor,Seminoma,0.5,6,27776148,27776148,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,A,54,V,A54V,TCGA-2G-AAFG-01,SEM,Germ Cell Tumor,Seminoma,0.5,6,27776148,27776148,Missense_Mutation,SNP
 P62805,H4,H4C1,G,12,S,G12S,TCGA-2G-AAFI-01,MGCT,Germ Cell Tumor,Mixed Germ Cell Tumor,0.27,6,26021940,26021940,Missense_Mutation,SNP
 P62807,H2B,H2BC7,R,100,C,R100C,TCGA-2G-AAKH-01,MGCT,Germ Cell Tumor,Mixed Germ Cell Tumor,1.57,6,26200084,26200084,Missense_Mutation,SNP
 P0C5Y9,H2A,H2AB1,T,64,M,T64M,TCGA-2W-A8YY-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,377.17,X,154113515,154113515,Missense_Mutation,SNP
@@ -7524,7 +7524,7 @@ P62807,H2B,H2BC10,Q,23,H,Q23H,TCGA-73-4658-01,LUAD,Non-Small Cell Lung Cancer,Lu
 P62805,H4,H4C9,G,100,C,G100C,TCGA-73-4668-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,16.23,6,27107385,27107385,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,E,62,V,E62V,TCGA-77-7141-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,20.73,6,27833317,27833317,Missense_Mutation,SNP
 P33778,H2B,H2BC3,G,14,R,G14R,TCGA-77-7337-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,10.17,6,26043846,26043846,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,S,2,C,S2C,TCGA-77-A5GH-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,8.3,6,27775992,27775992,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,S,2,C,S2C,TCGA-77-A5GH-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,8.3,6,27775992,27775992,Missense_Mutation,SNP
 P68431,H3,H3C3,E,98,K,E98K,TCGA-78-7146-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,11.6,6,26045930,26045930,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,S,20,C,S20C,TCGA-78-7150-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,12.13,6,27833191,27833191,Missense_Mutation,SNP
 P33778,H2B,H2BC3,E,36,K,E36K,TCGA-78-7152-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,6,6,26043780,26043780,Missense_Mutation,SNP
@@ -7537,7 +7537,7 @@ P0C0S8,H2A,H2AC15,Q,25,E,Q25E,TCGA-85-7698-01,LUSC,Non-Small Cell Lung Cancer,Lu
 P62807,H2B,H2BC7,E,94,D,E94D,TCGA-85-8354-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,6.13,6,26200068,26200068,Missense_Mutation,SNP
 P33778,H2B,H2BC3,E,36,D,E36D,TCGA-85-8582-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,9.93,6,26043778,26043778,Missense_Mutation,SNP
 P68431,H3,H3C1,L,127,V,L127V,TCGA-85-8584-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,7.3,6,26021096,26021096,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,E,62,D,E62D,TCGA-85-8666-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,7,6,27776173,27776173,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,E,62,D,E62D,TCGA-85-8666-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,7,6,27776173,27776173,Missense_Mutation,SNP
 P68431,H3,H3C10,V,90,M,V90M,TCGA-85-A4JB-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,14.2,6,27778119,27778119,Missense_Mutation,SNP
 P62807,H2B,H2BC10,S,88,W,S88W,TCGA-85-A4JC-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,7.37,6,26273466,26273466,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,E,122,K,E122K,TCGA-86-8278-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,3.07,6,27833496,27833496,Missense_Mutation,SNP
@@ -7546,18 +7546,18 @@ P68431,H3,H3C11,G,34,S,G34S,TCGA-86-8672-01,LUAD,Non-Small Cell Lung Cancer,Lung
 P62807,H2B,H2BC7,A,82,V,A82V,TCGA-86-A4JF-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,40.97,6,26200031,26200031,Missense_Mutation,SNP
 P68431,H3,H3C11,E,106,Q,E106Q,TCGA-91-6848-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,18.73,6,27839778,27839778,Missense_Mutation,SNP
 P23527,H2B,H2BC17,T,91,N,T91N,TCGA-91-7771-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,6.2,6,27861512,27861512,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,33,C,R33C,TCGA-92-8065-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,7.83,6,27776084,27776084,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,33,C,R33C,TCGA-92-8065-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,7.83,6,27776084,27776084,Missense_Mutation,SNP
 P68431,H3,H3C11,D,82,N,D82N,TCGA-94-7943-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,5.93,6,27839850,27839850,Missense_Mutation,SNP
 Q96KK5,H2A,H2AC12,R,21,G,R21G,TCGA-95-7947-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,15.87,6,27114968,27114968,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,12,C,R12C,TCGA-95-7948-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,4.73,6,27776021,27776021,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,12,C,R12C,TCGA-95-7948-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,4.73,6,27776021,27776021,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,G,47,V,G47V,TCGA-96-8169-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,4.97,6,27805978,27805978,Missense_Mutation,SNP
 P68431,H3,H3C11,R,132,P,R132P,TCGA-97-A4M0-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,11.5,6,27839699,27839699,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,30,P,R30P,TCGA-98-8020-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,2.93,6,27776076,27776076,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,30,P,R30P,TCGA-98-8020-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,2.93,6,27776076,27776076,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,K,76,N,K76N,TCGA-A2-A04R-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,2.43,6,27833360,27833360,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,D,73,N,D73N,TCGA-A2-A04W-01,BRCNOS,Breast Cancer,"Breast Invasive Carcinoma, NOS",4.2,6,27805901,27805901,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,S,2,L,S2L,TCGA-A2-A0CT-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,2.67,6,27806113,27806113,Missense_Mutation,SNP
 P62807,H2B,H2BC7,E,77,K,E77K,TCGA-A2-A0EY-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,6.07,6,26200015,26200015,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,N,111,K,N111K,TCGA-A2-A25E-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,1.6,6,27776320,27776320,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,N,111,K,N111K,TCGA-A2-A25E-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,1.6,6,27776320,27776320,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,I,79,L,I79L,TCGA-A3-3346-01,CCRCC,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,2.83,6,27805883,27805883,Missense_Mutation,SNP
 P62807,H2B,H2BC7,L,102,M,L102M,TCGA-A5-A0G1-01,USC,Endometrial Cancer,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,360.83,6,26200090,26200090,Missense_Mutation,SNP
 P68431,H3,H3C3,D,82,N,D82N,TCGA-A5-A0G1-01,USC,Endometrial Cancer,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,360.83,6,26045882,26045882,Missense_Mutation,SNP
@@ -7569,8 +7569,8 @@ P68431,H3,H3C10,R,135,M,R135M,TCGA-A5-A0G2-01,USC,Endometrial Cancer,Uterine Ser
 P62805,H4,H4C9,R,40,C,R40C,TCGA-A5-A0G2-01,USC,Endometrial Cancer,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,857.8,6,27107205,27107205,Missense_Mutation,SNP
 P68431,H3,H3C1,L,83,M,L83M,TCGA-A5-A0GB-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,22.37,6,26020964,26020964,Missense_Mutation,SNP
 P68431,H3,H3C3,R,84,C,R84C,TCGA-A5-A1OF-01,UMEC,Endometrial Cancer,Uterine Mixed Endometrial Carcinoma,350.23,6,26045888,26045888,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,A,67,V,A67V,TCGA-A5-A2K3-01,USC,Endometrial Cancer,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,41.13,6,27776187,27776187,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,N,74,K,N74K,TCGA-A7-A0CH-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,1,6,27776209,27776209,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,A,67,V,A67V,TCGA-A5-A2K3-01,USC,Endometrial Cancer,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,41.13,6,27776187,27776187,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,N,74,K,N74K,TCGA-A7-A0CH-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,1,6,27776209,27776209,Missense_Mutation,SNP
 P33778,H2B,H2BC3,K,121,N,K121N,TCGA-A7-A0DA-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,4.93,6,26043523,26043523,Missense_Mutation,SNP
 P33778,H2B,H2BC3,E,94,D,E94D,TCGA-A7-A0DA-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,4.93,6,26043604,26043604,Missense_Mutation,SNP
 P68431,H3,H3C1,T,4,I,T4I,TCGA-A7-A0DA-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,4.93,6,26020728,26020728,Missense_Mutation,SNP
@@ -7578,7 +7578,7 @@ P68431,H3,H3C11,G,13,V,G13V,TCGA-A7-A0DA-01,IDC,Breast Cancer,Breast Invasive Du
 P68431,H3,H3C8,G,13,D,G13D,TCGA-A7-A26J-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,0.77,6,26271575,26271575,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,Q,105,R,Q105R,TCGA-A8-A09Z-01,ILC,Breast Cancer,Breast Invasive Lobular Carcinoma,36.63,6,27833446,27833446,Missense_Mutation,SNP
 P0C5Y9,H2A,H2AB1,Q,34,H,Q34H,TCGA-AA-3492-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,67.17,X,154113426,154113426,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,E,65,G,E65G,TCGA-AA-3544-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,0.63,6,27776181,27776181,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,E,65,G,E65G,TCGA-AA-3544-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,0.63,6,27776181,27776181,Missense_Mutation,SNP
 P62807,H2B,H2BC7,K,35,R,K35R,TCGA-AA-3715-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,70.7,6,26199890,26199890,Missense_Mutation,SNP
 P0C5Y9,H2A,H2AB1,R,47,S,R47S,TCGA-AA-3812-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,3.6,X,154113463,154113463,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,R,4,C,R4C,TCGA-AA-3947-01,MACR,Colorectal Cancer,Mucinous Adenocarcinoma of the Colon and Rectum,76.57,6,27833142,27833142,Missense_Mutation,SNP
@@ -7605,7 +7605,7 @@ P68431,H3,H3C8,P,122,L,P122L,TCGA-AJ-A5DV-01,UEC,Endometrial Cancer,Uterine Endo
 Q96KK5,H2A,H2AC12,H,32,R,H32R,TCGA-AM-5821-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,40.17,6,27115002,27115002,Missense_Mutation,SNP
 P62805,H4,H4C1,I,30,S,I30S,TCGA-AM-5821-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,40.17,6,26021995,26021995,Missense_Mutation,SNP
 P68431,H3,H3C8,P,44,L,P44L,TCGA-AN-A03Y-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,0.93,6,26271482,26271482,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,T,77,S,T77S,TCGA-AN-A0AK-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,37.43,6,27776216,27776216,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,T,77,S,T77S,TCGA-AN-A0AK-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,37.43,6,27776216,27776216,Missense_Mutation,SNP
 P33778,H2B,H2BC3,R,73,C,R73C,TCGA-AN-A0AK-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,37.43,6,26043669,26043669,Missense_Mutation,SNP
 P62807,H2B,H2BC10,K,28,N,K28N,TCGA-AO-A0J4-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,3.4,6,26273287,26273287,Missense_Mutation,SNP
 P62807,H2B,H2BC10,Q,96,K,Q96K,TCGA-AP-A051-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,277.3,6,26273489,26273489,Missense_Mutation,SNP
@@ -7616,7 +7616,7 @@ P62807,H2B,H2BC10,E,77,Q,E77Q,TCGA-AP-A0LI-01,USC,Endometrial Cancer,Uterine Ser
 P0C0S8,H2A,H2AC17,V,44,I,V44I,TCGA-AP-A1DK-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,344,6,27860798,27860798,Missense_Mutation,SNP
 P62807,H2B,H2BC7,A,10,V,A10V,TCGA-AP-A1DK-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,344,6,26199815,26199815,Missense_Mutation,SNP
 P62807,H2B,H2BC7,Q,48,R,Q48R,TCGA-AP-A1DK-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,344,6,26199929,26199929,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,K,119,T,K119T,TCGA-AP-A1DV-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,402.37,6,27776343,27776343,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,K,119,T,K119T,TCGA-AP-A1DV-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,402.37,6,27776343,27776343,Missense_Mutation,SNP
 P33778,H2B,H2BC3,R,73,C,R73C,TCGA-AP-A1DV-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,402.37,6,26043669,26043669,Missense_Mutation,SNP
 P62805,H4,H4C9,G,49,D,G49D,TCGA-AP-A1E1-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,18.47,6,27107233,27107233,Missense_Mutation,SNP
 P62805,H4,H4C9,V,87,M,V87M,TCGA-AX-A060-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,24.7,6,27107346,27107346,Missense_Mutation,SNP
@@ -7671,14 +7671,14 @@ P68431,H3,H3C3,K,123,R,K123R,TCGA-BS-A0TC-01,UEC,Endometrial Cancer,Uterine Endo
 P68431,H3,H3C11,E,134,K,E134K,TCGA-BS-A0UF-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,279.37,6,27839694,27839694,Missense_Mutation,SNP
 P62805,H4,H4C9,E,53,Q,E53Q,TCGA-BT-A20J-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,14.17,6,27107244,27107244,Missense_Mutation,SNP
 P62805,H4,H4C9,V,88,F,V88F,TCGA-BT-A3PK-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,11.43,6,27107349,27107349,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,L,98,M,L98M,TCGA-C5-A1BN-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,2.07,6,27776279,27776279,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,L,98,M,L98M,TCGA-C5-A1BN-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,2.07,6,27776279,27776279,Missense_Mutation,SNP
 P33778,H2B,H2BC3,A,111,V,A111V,TCGA-C5-A2LY-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,2.9,6,26043554,26043554,Missense_Mutation,SNP
 P68431,H3,H3C3,G,13,C,G13C,TCGA-C5-A2M1-01,ECAD,Cervical Cancer,Endocervical Adenocarcinoma,2.8,6,26045675,26045675,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,A,54,T,A54T,TCGA-C5-A8ZZ-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,2.83,6,27805958,27805958,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,E,122,K,E122K,TCGA-C8-A12Z-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,1.43,6,27805754,27805754,Missense_Mutation,SNP
 P68431,H3,H3C3,A,30,P,A30P,TCGA-C8-A130-01,IDC,Breast Cancer,Breast Invasive Ductal Carcinoma,1.17,6,26045726,26045726,Missense_Mutation,SNP
 O75367,H2A,MACROH2A1,F,311,C,F311C,TCGA-CA-6717-01,MACR,Colorectal Cancer,Mucinous Adenocarcinoma of the Colon and Rectum,319.6,5,134678971,134678971,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,P,49,L,P49L,TCGA-CA-6719-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,3.83,6,27776133,27776133,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,P,49,L,P49L,TCGA-CA-6719-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,3.83,6,27776133,27776133,Missense_Mutation,SNP
 P68431,H3,H3C11,T,119,P,T119P,TCGA-CC-A7IK-01,HCC,Hepatobiliary Cancer,Hepatocellular Carcinoma,9.57,6,27839739,27839739,Missense_Mutation,SNP
 P68431,H3,H3C10,R,43,Q,R43Q,TCGA-CC-A9FS-01,HCC,Hepatobiliary Cancer,Hepatocellular Carcinoma,3.27,6,27777979,27777979,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,Q,105,H,Q105H,TCGA-CC-A9FW-01,HCC,Hepatobiliary Cancer,Hepatocellular Carcinoma,4.53,6,27805803,27805803,Missense_Mutation,SNP
@@ -7691,14 +7691,14 @@ P62805,H4,H4C1,Y,73,H,Y73H,TCGA-CG-4442-01,ISTAD,Esophagogastric Cancer,Intestin
 Q96KK5,H2A,H2AC12,G,38,D,G38D,TCGA-CG-5717-01,STAD,Esophagogastric Cancer,Stomach Adenocarcinoma,3.9,6,27115020,27115020,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,G,99,D,G99D,TCGA-CG-5723-01,STAD,Esophagogastric Cancer,Stomach Adenocarcinoma,53.57,6,27833428,27833428,Missense_Mutation,SNP
 P62805,H4,H4C1,I,30,N,I30N,TCGA-CK-4951-01,MACR,Colorectal Cancer,Mucinous Adenocarcinoma of the Colon and Rectum,139.83,6,26021995,26021995,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,4,H,R4H,TCGA-CM-4743-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,36.9,6,27775998,27775998,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,4,H,R4H,TCGA-CM-4743-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,36.9,6,27775998,27775998,Missense_Mutation,SNP
 P68431,H3,H3C11,A,128,P,A128P,TCGA-CM-4748-01,MACR,Colorectal Cancer,Mucinous Adenocarcinoma of the Colon and Rectum,2.23,6,27839712,27839712,Missense_Mutation,SNP
 P68431,H3,H3C3,V,102,M,V102M,TCGA-CM-6163-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,3.13,6,26045942,26045942,Missense_Mutation,SNP
 P68431,H3,H3C3,K,37,M,K37M,TCGA-CN-4740-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,4.27,6,26045748,26045748,Missense_Mutation,SNP
 P68431,H3,H3C8,A,8,V,A8V,TCGA-CN-5359-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,4.47,6,26271590,26271590,Missense_Mutation,SNP
 Q96KK5,H2A,H2AC12,V,55,M,V55M,TCGA-CN-5360-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,15.43,6,27115070,27115070,Missense_Mutation,SNP
 P68431,H3,H3C11,V,90,L,V90L,TCGA-CN-5374-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,4.47,6,27839826,27839826,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,E,122,Q,E122Q,TCGA-CN-6011-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,10.7,6,27776351,27776351,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,E,122,Q,E122Q,TCGA-CN-6011-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,10.7,6,27776351,27776351,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,Y,51,N,Y51N,TCGA-CN-6013-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,5.77,6,27805967,27805967,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,P,110,T,P110T,TCGA-CN-6998-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,2.17,6,27833460,27833460,Missense_Mutation,SNP
 Q96KK5,H2A,H2AC12,R,30,Q,R30Q,TCGA-CN-A49B-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,3,6,27114996,27114996,Missense_Mutation,SNP
@@ -7743,7 +7743,7 @@ P68431,H3,H3C3,Q,77,K,Q77K,TCGA-D3-A1Q4-06,SKCM,Melanoma,Cutaneous Melanoma,9.53
 P33778,H2B,H2BC3,G,105,V,G105V,TCGA-D3-A2J6-06,SKCM,Melanoma,Cutaneous Melanoma,48.07,6,26043572,26043572,Missense_Mutation,SNP
 P68431,H3,H3C1,L,127,I,L127I,TCGA-D3-A2JN-06,SKCM,Melanoma,Cutaneous Melanoma,24.67,6,26021096,26021096,Missense_Mutation,SNP
 P68431,H3,H3C1,G,35,C,G35C,TCGA-D3-A2JP-06,SKCM,Melanoma,Cutaneous Melanoma,138.33,6,26020820,26020820,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,V,115,L,V115L,TCGA-D3-A3C3-06,SKCM,Melanoma,Cutaneous Melanoma,7.43,6,27776330,27776330,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,V,115,L,V115L,TCGA-D3-A3C3-06,SKCM,Melanoma,Cutaneous Melanoma,7.43,6,27776330,27776330,Missense_Mutation,SNP
 P68431,H3,H3C1,R,132,S,R132S,TCGA-D3-A3C8-06,SKCM,Melanoma,Cutaneous Melanoma,52.33,6,26021111,26021111,Missense_Mutation,SNP
 P68431,H3,H3C10,E,98,K,E98K,TCGA-D3-A8GB-06,SKCM,Melanoma,Cutaneous Melanoma,28.6,6,27778143,27778143,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,V,55,G,V55G,TCGA-D3-A8GQ-06,SKCM,Melanoma,Cutaneous Melanoma,38.97,6,27833296,27833296,Missense_Mutation,SNP
@@ -7801,15 +7801,15 @@ P68431,H3,H3C11,K,37,N,K37N,TCGA-EA-A439-01,CESC,Cervical Cancer,Cervical Squamo
 P68431,H3,H3C11,E,106,Q,E106Q,TCGA-EA-A5ZE-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,1.47,6,27839778,27839778,Missense_Mutation,SNP
 Q96KK5,H2A,H2AC12,R,18,S,R18S,TCGA-EE-A181-06,SKCM,Melanoma,Cutaneous Melanoma,150.97,6,27114959,27114959,Missense_Mutation,SNP
 P62807,H2B,H2BC7,T,123,A,T123A,TCGA-EE-A29E-06,SKCM,Melanoma,Cutaneous Melanoma,120.7,6,26200153,26200153,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,72,C,R72C,TCGA-EE-A29L-06,SKCM,Melanoma,Cutaneous Melanoma,73.83,6,27776201,27776201,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,72,C,R72C,TCGA-EE-A29L-06,SKCM,Melanoma,Cutaneous Melanoma,73.83,6,27776201,27776201,Missense_Mutation,SNP
 P68431,H3,H3C10,P,31,Q,P31Q,TCGA-EE-A29Q-06,SKCM,Melanoma,Cutaneous Melanoma,20.53,6,27777943,27777943,Missense_Mutation,SNP
 P68431,H3,H3C10,R,117,L,R117L,TCGA-EE-A2A0-06,SKCM,Melanoma,Cutaneous Melanoma,17.37,6,27778201,27778201,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,P,27,L,P27L,TCGA-EE-A2A5-06,SKCM,Melanoma,Cutaneous Melanoma,15.73,6,27776067,27776067,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,P,27,L,P27L,TCGA-EE-A2A5-06,SKCM,Melanoma,Cutaneous Melanoma,15.73,6,27776067,27776067,Missense_Mutation,SNP
 P0C5Y9,H2A,H2AB1,N,103,S,N103S,TCGA-EE-A2GJ-06,SKCM,Melanoma,Cutaneous Melanoma,32.43,X,154113632,154113632,Missense_Mutation,SNP
 P33778,H2B,H2BC3,M,63,I,M63I,TCGA-EE-A2MI-06,SKCM,Melanoma,Cutaneous Melanoma,30.23,6,26043697,26043697,Missense_Mutation,SNP
 P68431,H3,H3C3,Q,56,K,Q56K,TCGA-EE-A3AA-06,SKCM,Melanoma,Cutaneous Melanoma,91.43,6,26045804,26045804,Missense_Mutation,SNP
 O60814,H2B,H2BC12,F,71,L,F71L,OCI-Ly1,GCB,Mature B-Cell Neoplasms,Germinal Center B-Cell Type,17.13,6,27114367,27114367,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,A,11,V,A11V,TCGA-EJ-7327-01,PRAD,Prostate Cancer,Prostate Adenocarcinoma,0.93,6,27776019,27776019,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,A,11,V,A11V,TCGA-EJ-7327-01,PRAD,Prostate Cancer,Prostate Adenocarcinoma,0.93,6,27776019,27776019,Missense_Mutation,SNP
 P68431,H3,H3C8,E,98,K,E98K,TCGA-EK-A2PG-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,17.63,6,26271321,26271321,Missense_Mutation,SNP
 P68431,H3,H3C1,S,11,C,S11C,TCGA-EK-A2PM-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,8.83,6,26020749,26020749,Missense_Mutation,SNP
 P33778,H2B,H2BC3,A,75,V,A75V,TCGA-EO-A22R-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,426.2,6,26043662,26043662,Missense_Mutation,SNP
@@ -7822,7 +7822,7 @@ P68431,H3,H3C11,K,80,E,K80E,TCGA-EO-A3AV-01,UEC,Endometrial Cancer,Uterine Endom
 P68431,H3,H3C3,V,90,A,V90A,TCGA-EO-A3KX-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,106.87,6,26045907,26045907,Missense_Mutation,SNP
 P62805,H4,H4C1,G,43,D,G43D,TCGA-EO-A3KX-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,106.87,6,26022034,26022034,Missense_Mutation,SNP
 P62805,H4,H4C9,R,18,H,R18H,TCGA-EO-A3KX-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,106.87,6,27107140,27107140,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,G,68,D,G68D,TCGA-EQ-5647-01,STAD,Esophagogastric Cancer,Stomach Adenocarcinoma,2.57,6,27776190,27776190,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,G,68,D,G68D,TCGA-EQ-5647-01,STAD,Esophagogastric Cancer,Stomach Adenocarcinoma,2.57,6,27776190,27776190,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,P,81,L,P81L,TCGA-ER-A193-06,SKCM,Melanoma,Cutaneous Melanoma,56.67,6,27805876,27805876,Missense_Mutation,SNP
 P68431,H3,H3C8,G,13,D,G13D,TCGA-ER-A193-06,SKCM,Melanoma,Cutaneous Melanoma,56.67,6,26271575,26271575,Missense_Mutation,SNP
 P68431,H3,H3C3,P,31,L,P31L,TCGA-ER-A19D-06,SKCM,Melanoma,Cutaneous Melanoma,13.03,6,26045730,26045730,Missense_Mutation,SNP
@@ -7833,7 +7833,7 @@ P0C0S8,H2A,H2AC17,T,60,I,T60I,TCGA-FA-A6HN-01,DLBCL,Mature B-Cell Neoplasms,Diff
 P68431,H3,H3C3,H,40,D,H40D,TCGA-FD-A43P-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,12.37,6,26045756,26045756,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC15,R,30,Q,R30Q,TCGA-FD-A6TC-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,28.93,6,27806029,27806029,Missense_Mutation,SNP
 P62805,H4,H4C9,S,48,C,S48C,TCGA-FD-A6TC-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,28.93,6,27107230,27107230,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,G,29,S,G29S,TCGA-FF-A7CQ-01,DLBCL,Mature B-Cell Neoplasms,Diffuse Large B-Cell Lymphoma,4.77,6,27776072,27776072,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,G,29,S,G29S,TCGA-FF-A7CQ-01,DLBCL,Mature B-Cell Neoplasms,Diffuse Large B-Cell Lymphoma,4.77,6,27776072,27776072,Missense_Mutation,SNP
 P68431,H3,H3C3,R,54,H,R54H,TCGA-FG-5964-01,ODG,Glioma,Oligodendroglioma,1.3,6,26045799,26045799,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC17,S,2,C,S2C,TCGA-FG-A710-01,ODG,Glioma,Oligodendroglioma,1.1,6,27860923,27860923,Missense_Mutation,SNP
 P68431,H3,H3C3,D,78,N,D78N,TCGA-FI-A2D5-01,UEC,Endometrial Cancer,Uterine Endometrioid Carcinoma,462.53,6,26045870,26045870,Missense_Mutation,SNP
@@ -7888,7 +7888,7 @@ P62805,H4,H4C9,R,36,W,R36W,TCGA-IR-A3LI-01,ECAD,Cervical Cancer,Endocervical Ade
 P0C0S8,H2A,H2AC16,R,30,P,R30P,TCGA-IR-A3LK-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,39.63,6,27833221,27833221,Missense_Mutation,SNP
 P62807,H2B,H2BC7,E,3,K,E3K,TCGA-IR-A3LL-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,11.37,6,26199793,26199793,Missense_Mutation,SNP
 Q96KK5,H2A,H2AC12,L,34,P,L34P,TCGA-J9-A52C-01,PRAD,Prostate Cancer,Prostate Adenocarcinoma,16.33,6,27115008,27115008,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,S,2,Y,S2Y,TCGA-JY-A6FA-01,ESCC,Esophagogastric Cancer,Esophageal Squamous Cell Carcinoma,3.47,6,27775992,27775992,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,S,2,Y,S2Y,TCGA-JY-A6FA-01,ESCC,Esophagogastric Cancer,Esophageal Squamous Cell Carcinoma,3.47,6,27775992,27775992,Missense_Mutation,SNP
 P62805,H4,H4C9,T,74,K,T74K,TCGA-K4-A4AB-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,2.93,6,27107308,27107308,Missense_Mutation,SNP
 P62807,H2B,H2BC7,E,77,K,E77K,TCGA-K4-A54R-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,28.1,6,26200015,26200015,Missense_Mutation,SNP
 P68431,H3,H3C8,R,43,L,R43L,TCGA-KK-A6E3-01,PRAD,Prostate Cancer,Prostate Adenocarcinoma,1.07,6,26271485,26271485,Missense_Mutation,SNP
@@ -7901,7 +7901,7 @@ P0C0S8,H2A,H2AC15,L,59,V,L59V,TCGA-L5-A4OU-01,ESCA,Esophagogastric Cancer,Esopha
 P23527,H2B,H2BC17,G,14,D,G14D,TCGA-L5-A4OW-01,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,7.8,6,27861281,27861281,Missense_Mutation,SNP
 P33778,H2B,H2BC3,S,5,Y,S5Y,TCGA-L5-A8NK-01,ESCC,Esophagogastric Cancer,Esophageal Squamous Cell Carcinoma,5.77,6,26043872,26043872,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,Q,7,L,Q7L,TCGA-L5-A8NW-01,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,4.6,6,27833152,27833152,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,12,G,R12G,TCGA-L9-A444-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,16.43,6,27776021,27776021,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,12,G,R12G,TCGA-L9-A444-01,LUAD,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,16.43,6,27776021,27776021,Missense_Mutation,SNP
 P68431,H3,H3C3,E,98,K,E98K,TCGA-LN-A4A8-01,ESCC,Esophagogastric Cancer,Esophageal Squamous Cell Carcinoma,3.47,6,26045930,26045930,Missense_Mutation,SNP
 Q96KK5,H2A,H2AC12,E,122,Q,E122Q,TCGA-LN-A7HY-01,ESCC,Esophagogastric Cancer,Esophageal Squamous Cell Carcinoma,4.6,6,27115271,27115271,Missense_Mutation,SNP
 P68431,H3,H3C3,L,101,Q,L101Q,TCGA-LN-A7HY-01,ESCC,Esophagogastric Cancer,Esophageal Squamous Cell Carcinoma,4.6,6,26045940,26045940,Missense_Mutation,SNP
@@ -7925,10 +7925,10 @@ Q96KK5,H2A,H2AC12,E,122,K,E122K,TCGA-Q1-A73O-01,CESC,Cervical Cancer,Cervical Sq
 P0C0S8,H2A,H2AC15,G,47,V,G47V,TCGA-Q1-A73O-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,43.37,6,27805978,27805978,Missense_Mutation,SNP
 P68431,H3,H3C10,E,98,K,E98K,TCGA-Q1-A73O-01,CESC,Cervical Cancer,Cervical Squamous Cell Carcinoma,43.37,6,27778143,27778143,Missense_Mutation,SNP
 P62805,H4,H4C1,S,48,P,S48P,TCGA-QK-A6VB-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,14.03,6,26022048,26022048,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,S,2,F,S2F,TCGA-QK-A8Z7-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,4.43,6,27775992,27775992,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,S,2,F,S2F,TCGA-QK-A8Z7-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,4.43,6,27775992,27775992,Missense_Mutation,SNP
 P68431,H3,H3C11,A,22,T,A22T,TCGA-R5-A7ZR-01,TSTAD,Esophagogastric Cancer,Tubular Stomach Adenocarcinoma,2,6,27840030,27840030,Missense_Mutation,SNP
 P68431,H3,H3C11,E,106,Q,E106Q,TCGA-R6-A8WG-01,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,3.13,6,27839778,27839778,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,G,3,E,G3E,TCGA-RD-A8N9-01,DSTAD,Esophagogastric Cancer,Diffuse Type Stomach Adenocarcinoma,3.37,6,27775995,27775995,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,G,3,E,G3E,TCGA-RD-A8N9-01,DSTAD,Esophagogastric Cancer,Diffuse Type Stomach Adenocarcinoma,3.37,6,27775995,27775995,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC17,V,44,L,V44L,TCGA-RS-A6TP-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,3.57,6,27860798,27860798,Missense_Mutation,SNP
 P68431,H3,H3C8,R,18,C,R18C,TCGA-S8-A6BW-01,ESCC,Esophagogastric Cancer,Esophageal Squamous Cell Carcinoma,2.73,6,26271561,26271561,Missense_Mutation,SNP
 P62807,H2B,H2BC10,K,12,N,K12N,TCGA-SY-A9G5-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,30.83,6,26273239,26273239,Missense_Mutation,SNP
@@ -7939,7 +7939,7 @@ P68431,H3,H3C11,E,106,K,E106K,TCGA-UF-A71E-01,HNSC,Head and Neck Cancer,Head and
 P68431,H3,H3C8,K,37,M,K37M,TCGA-UF-A7JD-01,HNSC,Head and Neck Cancer,Head and Neck Squamous Cell Carcinoma,3.3,6,26271503,26271503,Missense_Mutation,SNP
 P68431,H3,H3C11,V,118,G,V118G,TCGA-US-A774-01,PAAD,Pancreatic Cancer,Pancreatic Adenocarcinoma,0.5,6,27839741,27839741,Missense_Mutation,SNP
 P62807,H2B,H2BC10,E,77,K,E77K,TCGA-UY-A78P-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,8.5,6,26273432,26273432,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,12,C,R12C,TCGA-UY-A9PD-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,8.8,6,27776021,27776021,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,12,C,R12C,TCGA-UY-A9PD-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,8.8,6,27776021,27776021,Missense_Mutation,SNP
 Q96KK5,H2A,H2AC12,G,5,V,G5V,TCGA-V5-A7RC-01,ESCC,Esophagogastric Cancer,Esophageal Squamous Cell Carcinoma,3.27,6,27114921,27114921,Missense_Mutation,SNP
 P33778,H2B,H2BC3,E,114,K,E114K,TCGA-V5-AASX-01,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,8.57,6,26043546,26043546,Missense_Mutation,SNP
 P23527,H2B,H2BC17,P,4,Q,P4Q,TCGA-VP-A87D-01,PRAD,Prostate Cancer,Prostate Adenocarcinoma,1.67,6,27861251,27861251,Missense_Mutation,SNP
@@ -7965,7 +7965,7 @@ P68431,H3,H3C11,K,37,N,K37N,TCGA-YC-A8S6-01,BLCA,Bladder Cancer,Bladder Urotheli
 P68431,H3,H3C8,V,36,L,V36L,TCGA-YR-A95A-01,PHCH,Hepatobiliary Cancer,Perihilar Cholangiocarcinoma,0.9,6,26271507,26271507,Missense_Mutation,SNP
 P33778,H2B,H2BC3,S,15,F,S15F,TCGA-ZC-AAA7-01,THYM,Thymic Tumor,Thymoma,2.23,6,26043842,26043842,Missense_Mutation,SNP
 P68431,H3,H3C11,E,98,K,E98K,TCGA-ZF-A9R0-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,5.93,6,27839802,27839802,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,G,47,E,G47E,TCGA-ZF-A9RC-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,28.3,6,27776127,27776127,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,G,47,E,G47E,TCGA-ZF-A9RC-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,28.3,6,27776127,27776127,Missense_Mutation,SNP
 P68431,H3,H3C10,E,98,K,E98K,TCGA-ZF-A9RC-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,28.3,6,27778143,27778143,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC16,E,42,K,E42K,TCGA-ZF-AA4X-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,19.47,6,27833256,27833256,Missense_Mutation,SNP
 P33778,H2B,H2BC3,S,5,T,S5T,TCGA-ZF-AA56-01,BLCA,Bladder Cancer,Bladder Urothelial Carcinoma,3.43,6,26043873,26043873,Missense_Mutation,SNP
