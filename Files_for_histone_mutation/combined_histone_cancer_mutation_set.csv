@@ -1687,7 +1687,7 @@ P0C0S8,H2A,H2AC13,R,30,P,R30P,TCGA-98-8020-01,LUSC,Non-Small Cell Lung Cancer,Lu
 P0C0S8,H2A,H2AC13,R,33,C,R33C,X11BR031,,,Invasive Breast Carcinoma,11.63333333,6,27776084,27776084,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC13,R,33,C,R33C,SP953,BLSC,Bladder Cancer,Bladder Squamous Cell Carcinoma,10.23333333,6,27776084,27776084,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC13,R,33,C,R33C,TCGA-92-8065-01,LUSC,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,7.8,6,27776084,27776084,Missense_Mutation,SNP
-Q96KK5,H2A,H2AC13,R,36,S,R36S,ESO-153,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,3.93,6,27776093,27776093,Missense_Mutation,SNP
+P0C0S8,H2A,H2AC13,R,36,S,R36S,ESO-153,ESCA,Esophagogastric Cancer,Esophageal Adenocarcinoma,3.93,6,27776093,27776093,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC13,R,43,P,R43P,SP70106,PAAD,Pancreatic Cancer,Pancreatic Adenocarcinoma,2.466666667,6,27776115,27776115,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC13,R,4,H,R4H,TCGA-CM-4743-01,COAD,Colorectal Cancer,Colon Adenocarcinoma,36.86666667,6,27775998,27775998,Missense_Mutation,SNP
 P0C0S8,H2A,H2AC13,R,4,H,R4H,coadread_dfci_2016_2379,COADREAD,Colorectal Cancer,Colorectal Adenocarcinoma,36.43333333,6,27775998,27775998,Missense_Mutation,SNP
